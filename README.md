@@ -36,11 +36,11 @@ I'm a passionate **DevOps Engineer** and **Site Reliability Engineer** with hand
 ---
 
 💼 **What I Do**
-- 🌩️ Design, build, and manage **cloud infrastructure** on AWS & Azure.
-- 🛠️ Develop **infrastructure as code** using Terraform & Ansible.
+- 🌩️ Design, build, and manage **cloud infrastructure** on AWS, GCP & Azure
+- 🛠️ Develop **infrastructure as code** using Terraform.
 - 🐳 Containerize apps with **Docker**, orchestrate with **Kubernetes**.
-- 🔁 Build and maintain **CI/CD pipelines** using Jenkins, GitHub Actions, and GitLab CI.
-- 📈 Implement observability with **Prometheus**, **Grafana**, and **ELK stack**.
+- 🔁 Build and maintain **CI/CD pipelines** using Azure DevOps, GitHub Actions, and GitLab CI.
+- 📈 Implement observability with **Prometheus**, **Grafana**, **CloudWatch**, **Azure Monitor** and **ELK stack**.
 - 🔐 Enforce security best practices and **DevSecOps** principles.
 - 📦 Optimize release workflows and incident response for **high-availability systems**.
 
